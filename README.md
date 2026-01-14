@@ -1,7 +1,8 @@
 ## Euromoon – Java Trein Applicatie
 
-Euromoon is een fictieve treinmaatschappij die internationale treinreizen binnen Europa organiseert.
-Dit project is een Java command line applicatie **proof of concept**.
+Euromoon is een eenvoudige Java command line applicatie **proof of concept**.
+Voor het beheren van treinreizen.
+Gebruikers kunnen passagiers registreren, reizen aanmaken, treinen koppelen en tickets verkopen.
 
 
 
